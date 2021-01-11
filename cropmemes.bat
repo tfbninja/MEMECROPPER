@@ -1,0 +1,1 @@
+"C:\Program Files\Python37\python.exe" "C:\Database\MEMECROPPER\cropTheGoddamnMemes.py"
