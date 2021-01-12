@@ -24,6 +24,8 @@ This is most likely in Program Files/Python{version}/python.exe, but your mileag
 Once you have this file, all you need to do is set this program to run every so often using Task Scheduler. I have provided a task template for you to use, but no guarantees, you might just have to set it up yourself if it doens't work for you.
 My preferred settings are to run the program every 15 minutes and also at login, but do what you like.
 
+To sync your phone files with google drive, I use AutoSync, I believe you can find it on the play store, idk about apple tho. (~~As if apple users would want to program anyway~~ if you have an ios device I'm sure you can find something [:)](https://xkcd.com/541/)) 
+
 Please know, I make no guarantees as to the viability of this set of programs, just bear in mind that they work for me as given, and if they don't for you, ~~too bad~~ you're smart, you can modify them and check [StackOverflow](https://www.stackoverflow.com) if you run into any issues.
 
 If you have the guts to look at my code, make sure you're sitting down, then please remember I cannot and will not be held responsible for any injuries caused as a result of your ineveitable fainting.
