@@ -14,7 +14,7 @@ Hence, I have created a program that can work together with your phone and compu
 You can make it even more helpful by making your save location on your phone mirrored to google drive, and mirror the output folder in drive to your phone.
 The way I have it set up, I have the folder where memes are saved on my phone uploaded to GD then deleted every 5 minutes. Every 15 minutes, my computer runs `cropthememes.bat` which performs it's magic.
 
-It deletes the old memes, and copies the new ones to a local GD folder on my computer. Every 5 minutes this, the contents of this folder in drive is then downloaded & deleted to my phone, where the resulting images are saved to my photos.
+It deletes the old memes, and copies the new ones to a local GD folder on my computer. Every 5 minutes the contents of this folder in drive are then downloaded & deleted to my phone, where the resulting images are saved to my photos.
 The whole process means that when I save a photo, it is not saved to my phone camera roll for up to 25 minutes, (usually less), but when it is, it has no watermark.
 Images without aa watermark are left alone, and videos are also left alone.
 
