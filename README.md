@@ -19,7 +19,7 @@ The whole process means that when I save a photo, it is not saved to my phone ca
 Images without a watermark are left alone, and videos are also left alone.
 
 If you would like to recreate this glorious experience, hesitate no longer. Clone this repository, and the execute `setup.bat`. It will prompt you for the locations of the two local google drive folders on your computer, and also the location of your `python.exe` file (python 3 only)
-This is most likely in Program Files/Python{version}/python.exe, but your mileage may vary. If you enter in these paths correctly, the `setup.bat` will setup a few more python programs to work in concert with `cropTheGoddamnMemes.py` and will also generate a `cropmemes.bat` file.
+This is most likely in Program Files/Python{version}/python.exe, but your mileage may vary. If you enter in these paths correctly, the `setup.bat` will setup a few more python programs to work in concert with `cropTheGoddamnMemes.py` and will also generate an executable `cropmemes.bat` file.
 
 Once you have this file, all you need to do is set this program to run every so often using Task Scheduler. I have provided a task template for you to use, but no guarantees, you might just have to set it up yourself if it doens't work for you.
 My preferred settings are to run the program every 15 minutes and also at login, but do what you like.
