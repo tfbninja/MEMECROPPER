@@ -1,0 +1,6 @@
+confFile = open("config.py", "r")
+newFile = str(confFile.read()).replace("\\\\","/")
+newFile.replace("\\","/")
+newFile.replace(r'\\',"/")
+f = open("config.py", "w")
+f.write(newFile)
