@@ -3,8 +3,7 @@ Ladies and Gentlemen, (lads and ladies if you will)
 
 ### ***behold --***
 
-### T
-he apex of my scripting capabilites, a poorly cobbled-together handful of programs that when used correctly, will automatically crop your memes.
+**T**he apex of my scripting capabilites, a poorly cobbled-together handful of programs that when used correctly, will automatically crop your memes.
 
 Yeah, I know, it sounds lame, but hear me out.
 
