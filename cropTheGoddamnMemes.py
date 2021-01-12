@@ -10,16 +10,11 @@ synced back with my phone every 5 minutes, where they are backed up to my Google
 photos.
 """
 from PIL import Image, ImageFilter, ImageChops
-from folderLocations import *
+from config import *
 import os
 
-#uncomment these lines and change the assignment to the string location where you store the uncropped memes and the cropped memes respectively
-#driveLocation = driveLocation
-#croppedLocation = croppedLocation
-
-#replace templateLocation with "template.jpg" if you're not me hehe
 template = Image.open(templateLocation).convert('RGB')
-#template.show()
+#template.show() # debug only
 
 
 for filename in os.listdir(driveLocation):
