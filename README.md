@@ -16,7 +16,7 @@ The way I have it set up, I have the folder where memes are saved on my phone up
 
 It deletes the old memes, and copies the new ones to a local GD folder on my computer. Every 5 minutes the contents of this folder in drive are then downloaded & deleted to my phone, where the resulting images are saved to my photos.
 The whole process means that when I save a photo, it is not saved to my phone camera roll for up to 25 minutes, (usually less), but when it is, it has no watermark.
-Images without aa watermark are left alone, and videos are also left alone.
+Images without a watermark are left alone, and videos are also left alone.
 
 If you would like to recreate this glorious experience, hesitate no longer. Clone this repository, and the execute `setup.bat`. It will prompt you for the locations of the two local google drive folders on your computer, and also the location of your `python.exe` file (python 3 only)
 This is most likely in Program Files/Python{version}/python.exe, but your mileage may vary. If you enter in these paths correctly, the `setup.bat` will setup a few more python programs to work in concert with `cropTheGoddamnMemes.py` and will also generate a `cropmemes.bat` file.
